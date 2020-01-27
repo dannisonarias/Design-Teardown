@@ -3,8 +3,14 @@
 }
 
 header{
-    background-color: #D33A2C;
+    background-color: rgb(146, 146, 146);
     height: 180px;
+    color: white;
+    text-decoration: none;
+}
+
+header a {
+    color: white;
 }
 
 .header-center-5{
@@ -12,11 +18,14 @@ header{
     width: 80%;
 }
 .header-center-5 div{
+    display: flex;
     width: 20%;
+    justify-content: center;
+    margin: auto 0;
 }
 
 .header-left-right{
-    background-color: blue;
+    margin: auto 0;
     width: 10%;
 }
 
@@ -92,3 +101,39 @@ header{
     margin-bottom: 6rem;
 }
 
+.see-all-latest-articles{
+    color: black;
+    background-color: rgb(243, 243, 243);
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.inclusive-components{
+    text-align: center;
+    color: white;
+    background-color: rgb(27, 27, 27);
+    height: 700px;
+}
+
+.inclusive-components a {
+    border-radius: 5px;
+    padding: 10px 5px;
+    background-color: rgb(243, 243, 243);
+}
+
+.person-of-the-week{
+    height: 400px;
+}
+
+.empty-icon{
+    margin: 50px auto;
+    width: 256px;
+    height: 370px;
+    background-color:rgb(7, 7, 7);
+}
+
+.empty-icon-2{
+    height: 300px;
+    width: 300px;
+}
