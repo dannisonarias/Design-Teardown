@@ -1,5 +1,5 @@
 * {
-  font-family: Spinnaker;
+  font-family: Spinnaker,sans-serif;
   font-weight: 700;
 }
 
@@ -65,6 +65,11 @@ header {
   margin: auto 0;
 }
 
+.footer-ul a {
+  color: white;
+  padding: 10px;
+}
+
 .header-left-right {
   margin: auto 0;
   padding: 0 20px;
@@ -80,7 +85,6 @@ header {
   text-decoration: none;
 }
 
-/* MAIN SECTION*/
 .middle-div {
   position: absolute;
   left: 32%;
@@ -121,7 +125,6 @@ header {
   border: 1px solid white;
 }
 
-/* SMASHING TV SECTION*/
 .smashing-tv {
   width: 100%;
   height: 500px;
@@ -288,7 +291,7 @@ footer {
   height: 300px;
 }
 
-.footer-ul{
+.footer-ul {
   text-decoration: none;
   list-style: none;
   margin-left: 20px;
@@ -296,11 +299,6 @@ footer {
   margin: 0 auto;
   flex-wrap: wrap;
   justify-content: center;
-}
-
-.footer-ul a{
-  color: white;
-  padding: 10px;
 }
 
 .footer-ul a:hover {
