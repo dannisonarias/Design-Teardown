@@ -267,3 +267,13 @@ footer {
   width: 30%;
   height: 300px;
 }
+
+.footer-ul{
+  text-decoration: none;
+  list-style: none;
+  margin-left: 20px;
+}
+
+.footer-ul a{
+  color: white;
+}
