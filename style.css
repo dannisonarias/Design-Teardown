@@ -189,8 +189,56 @@ header a {
   color: black;
 }
 
+.design-systems-section {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.design-systems {
+  text-align: center;
+}
+
 .empty-icon-4 {
   background-color: black;
   width: 300px;
-  height: 400px;
+  height: 300px;
+}
+
+.guides-div {
+  display: inline-block;
+  width: 33%;
+  height: 500px;
+}
+
+.empty-icon-5 {
+  float: right;
+  width: 60%;
+  height: 500px;
+  background-color: black;
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
+
+.footer-top {
+  padding: 2rem;
+}
+
+.footer-top p {
+  margin: 6rem;
+}
+
+.footer-bottom {
+  display: flex;
+  align-items: center;
+}
+
+.empty-icon-6 {
+  background-color: black;
+  width: 30%;
+  height: 300px;
 }
