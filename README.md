@@ -10,7 +10,7 @@ This is the fifth project of the Main HTML/CSS curriculum at [Microverse](https:
 (http://smashingmagazine.com/) 
 
 Live Link to our work
-(https://rawcdn.githack.com/dannisonarias/Design-Teardown/65387c022e5b7c595311aa4fdd414d3e223d1612/index.html)
+(https://rawcdn.githack.com/dannisonarias/Design-Teardown/6ced40bce05bf8c8fea60224340f18b700da9a10/index.html)
 * The project was completed using html and css
 ## Authors
 
