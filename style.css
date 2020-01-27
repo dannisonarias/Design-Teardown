@@ -306,3 +306,6 @@ footer {
 .footer-ul a:hover {
   color: white;
 }
+.void-h2{
+  display: none;
+}
