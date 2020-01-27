@@ -67,7 +67,17 @@ header {
 
 .header-left-right {
   margin: auto 0;
+  padding: 0 20px;
   width: 10%;
+}
+
+.header-left-right a {
+  color: white;
+}
+
+.header-left-right a:hover {
+  color: white;
+  text-decoration: none;
 }
 
 /* MAIN SECTION*/
@@ -134,6 +144,10 @@ header {
   align-items: center;
 }
 
+.see-all-latest-articles h6 {
+  font-weight: 900;
+}
+
 .inclusive-components {
   text-align: center;
   color: white;
@@ -142,7 +156,13 @@ header {
 .inclusive-components a {
   border-radius: 5px;
   padding: 10px 5px;
+  color: black;
   background-color: rgb(243, 243, 243);
+}
+
+.inclusive-components a:hover {
+  color: black;
+  text-decoration: none;
 }
 
 .person-of-the-week {
@@ -272,8 +292,17 @@ footer {
   text-decoration: none;
   list-style: none;
   margin-left: 20px;
+  width: 80%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .footer-ul a{
+  color: white;
+  padding: 10px;
+}
+
+.footer-ul a:hover {
   color: white;
 }
