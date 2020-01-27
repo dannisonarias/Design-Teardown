@@ -1,4 +1,5 @@
-# PROJECT: DESIGN TEARDOWN
+# PROJECT: DESIGN TEARDOWN 
+# built on 1440 x 900 resolution (please view live link using this resolution in your browser)
 
 This is the fifth project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
 * The objective is to create a grayscale visual hierarchy [website]
@@ -9,7 +10,7 @@ This is the fifth project of the Main HTML/CSS curriculum at [Microverse](https:
 (http://smashingmagazine.com/) 
 
 Live Link to our work
-(link)
+(https://rawcdn.githack.com/dannisonarias/Design-Teardown/65387c022e5b7c595311aa4fdd414d3e223d1612/index.html)
 * The project was completed using html and css
 ## Authors
 
